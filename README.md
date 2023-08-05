@@ -1,4 +1,4 @@
-<h1>Hi, I'm Simon! <br/> Aspiring Cybersecurity Analyst</h1>
+<h1>Hi, I'm Simon! <br/> Aspiring Tech Professional</h1>
 
 <h2> 🔒 Cyber Security Projects:</h2>
 
@@ -8,7 +8,9 @@
 - <b>Windows Projects</b>
   - [Windows Defender Lab](https://github.com/simmonsx/Windows-Defender) <br>
 
+<h2> 🌐 WebDev Projects:</h2>
 
+- [The Odin Project](https://github.com/Simon-WebDevProject) <br>
 
 <h2> 🔗 Let's link up:</h2>
 
