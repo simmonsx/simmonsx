@@ -1,4 +1,4 @@
-<h1>Hi, I'm Simon! <br/> Aspiring Tech Professional</h1>
+<h1>Hi, I'm Simon! <br/> Aspiring IT Professional</h1>
 
 <h2> 🔒 Cyber Security Projects:</h2>
 
