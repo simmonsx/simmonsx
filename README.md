@@ -5,7 +5,9 @@
 - <b>Cloud Projects</b>
   - [Live SOC/Honeynet in Azure](https://github.com/simmonsx/AzureSOC) <br>
 - <b>Linux Projects<b>
-- <b>Windows Projects<b>
+- <b>Windows Projects<b>\
+  - [Windows Defender Lab](https://github.com/simmonsx/WindowsDefender) <br>
+
 
 
 <h2> 🔗 Let's link up:</h2>
