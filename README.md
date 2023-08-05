@@ -8,6 +8,6 @@
 <h2> 🔗 Let's link up:</h2>
 
 
-[<img align="left" alt="SimonKeleta | LinkedIn" width="75px" src="https://i.imgur.com/tJYr2gt.png" />][linkedin]
+[<img align="left" alt="SimonKeleta | LinkedIn" width="75px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" />][linkedin]
 
 [linkedin]: www.linkedin.com/in/simonkeleta
