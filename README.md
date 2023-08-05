@@ -6,7 +6,7 @@
   - [Live SOC/Honeynet in Azure](https://github.com/simmonsx/AzureSOC) <br>
 - <b>Linux Projects</b>
 - <b>Windows Projects</b>
-  - [Windows Defender Lab](https://github.com/simmonsx/WindowsDefender) <br>
+  - [Windows Defender Lab](https://github.com/simmonsx/Windows-Defender) <br>
 
 
 
