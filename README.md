@@ -3,6 +3,9 @@
 <h2> 🔒 Cyber Security Projects:</h2>
 
 - <b>Cloud Projects</b>
+  - [Live SOC/Honeynet in Azure](https://github.com/simmonsx/AzureSOC) <br>
+- <b>Linux Projects<b>
+- <b>Windows Projects<b>
 
 
 <h2> 🔗 Let's link up:</h2>
