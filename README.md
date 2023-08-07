@@ -4,7 +4,7 @@
 
 - <b>Cloud Projects</b>
   - [Live SOC/Honeynet in Azure](https://github.com/simmonsx/AzureSOC) <br>
-- <b>Linux Projects</b>
+- <b>Network Analytics</b>
   - [Intro to TCPDump](https://github.com/simmonsx/IntroTCPDump) <br>
 - <b>Windows Projects</b>
   - [Windows Defender Lab](https://github.com/simmonsx/Windows-Defender) <br>
